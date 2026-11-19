@@ -7,7 +7,7 @@ if (!process.env.MONGODB_URI) {
 const uri = process.env.MONGODB_URI;
 const options = { appName: 'devrel.template.nextjs' };
 
-let client;
+let client: MongoClient;
 
 if (process.env.NODE_ENV === 'development') {
     const globalWithMongo = global as typeof globalThis & {

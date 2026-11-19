@@ -1,0 +1,1100 @@
+[{
+  "_id": {
+    "$oid": "6ae148ffee6b3d0bb1f2aff4"
+  },
+  "date": "2026-10-01",
+  "symbol": "^GSPC",
+  "change": 14.909999999999854,
+  "change_percent": 0.19486273351508135,
+  "price": 7666.45,
+  "volume": {
+    "$numberLong": "5783800000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae148ffee6b3d0bb1f2aff5"
+  },
+  "date": "2026-10-02",
+  "symbol": "^GSPC",
+  "change": 56.27000000000044,
+  "change_percent": 0.7339772645748741,
+  "price": 7722.72,
+  "volume": {
+    "$numberLong": "5277430000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae148ffee6b3d0bb1f2aff6"
+  },
+  "date": "2026-10-05",
+  "symbol": "^GSPC",
+  "change": 51.22999999999956,
+  "change_percent": 0.6633673109992277,
+  "price": 7773.95,
+  "volume": {
+    "$numberLong": "5840900000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae148ffee6b3d0bb1f2aff7"
+  },
+  "date": "2026-10-06",
+  "symbol": "^GSPC",
+  "change": 44.98000000000047,
+  "change_percent": 0.5785990390985339,
+  "price": 7818.93,
+  "volume": {
+    "$numberLong": "5019650000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae148ffee6b3d0bb1f2aff8"
+  },
+  "date": "2026-10-07",
+  "symbol": "^GSPC",
+  "change": -17.159999999999854,
+  "change_percent": -0.21946736957614218,
+  "price": 7801.77,
+  "volume": {
+    "$numberLong": "5111150000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae148ffee6b3d0bb1f2aff9"
+  },
+  "symbol": "^GSPC",
+  "date": "2026-10-08",
+  "change": -36.410000000000764,
+  "change_percent": -0.46668896929800235,
+  "price": 7765.36,
+  "volume": {
+    "$numberLong": "6082070000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae148ffee6b3d0bb1f2affa"
+  },
+  "date": "2026-10-09",
+  "symbol": "^GSPC",
+  "change": 46.18000000000029,
+  "change_percent": 0.5946923259192143,
+  "price": 7811.54,
+  "volume": {
+    "$numberLong": "4782640000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae148ffee6b3d0bb1f2affb"
+  },
+  "date": "2026-10-12",
+  "symbol": "^GSPC",
+  "change": -4.300000000000182,
+  "change_percent": -0.055046764146380635,
+  "price": 7807.24,
+  "volume": {
+    "$numberLong": "4148500000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae148ffee6b3d0bb1f2affc"
+  },
+  "date": "2026-10-13",
+  "symbol": "^GSPC",
+  "change": -1.7899999999999636,
+  "change_percent": -0.02292743658450315,
+  "price": 7805.45,
+  "volume": {
+    "$numberLong": "4869340000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae148ffee6b3d0bb1f2affd"
+  },
+  "date": "2026-10-14",
+  "symbol": "^GSPC",
+  "change": -86.51000000000022,
+  "change_percent": -1.10832815532737,
+  "price": 7718.94,
+  "volume": {
+    "$numberLong": "5955580000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae148ffee6b3d0bb1f2affe"
+  },
+  "date": "2026-10-15",
+  "symbol": "^GSPC",
+  "change": 25.1200000000008,
+  "change_percent": 0.3254332848810951,
+  "price": 7744.06,
+  "volume": {
+    "$numberLong": "6055670000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae148ffee6b3d0bb1f2afff"
+  },
+  "symbol": "^GSPC",
+  "date": "2026-10-16",
+  "change": -84.6200000000008,
+  "change_percent": -1.0927084759157444,
+  "price": 7659.44,
+  "volume": {
+    "$numberLong": "5482060000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae148ffee6b3d0bb1f2b000"
+  },
+  "date": "2026-10-19",
+  "symbol": "^GSPC",
+  "change": 31.289999999999964,
+  "change_percent": 0.40851550504997713,
+  "price": 7690.73,
+  "volume": {
+    "$numberLong": "4587260000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae148ffee6b3d0bb1f2b001"
+  },
+  "date": "2026-10-20",
+  "symbol": "^GSPC",
+  "change": 21.840000000000146,
+  "change_percent": 0.28397824393783355,
+  "price": 7712.57,
+  "volume": {
+    "$numberLong": "5004770000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae148ffee6b3d0bb1f2b002"
+  },
+  "date": "2026-10-21",
+  "symbol": "^GSPC",
+  "change": 44.600000000000364,
+  "change_percent": 0.5782767611833716,
+  "price": 7757.17,
+  "volume": {
+    "$numberLong": "4921480000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae148ffee6b3d0bb1f2b003"
+  },
+  "symbol": "^GSPC",
+  "date": "2026-10-22",
+  "change": -93.73999999999978,
+  "change_percent": -1.2084303940741246,
+  "price": 7663.43,
+  "volume": {
+    "$numberLong": "5972620000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14900ee6b3d0bb1f2b004"
+  },
+  "date": "2026-10-23",
+  "symbol": "^GSPC",
+  "change": -39.75,
+  "change_percent": -0.5186972413136154,
+  "price": 7623.68,
+  "volume": {
+    "$numberLong": "5062330000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14900ee6b3d0bb1f2b005"
+  },
+  "symbol": "^GSPC",
+  "date": "2026-10-26",
+  "change": 53.090000000000146,
+  "change_percent": 0.6963828492276715,
+  "price": 7676.77,
+  "volume": {
+    "$numberLong": "5838070000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14900ee6b3d0bb1f2b007"
+  },
+  "date": "2026-10-27",
+  "symbol": "^GSPC",
+  "change": 45.82999999999993,
+  "change_percent": 0.5969958719617746,
+  "price": 7722.6,
+  "volume": {
+    "$numberLong": "5160120000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14902ee6b3d0bb1f2b012"
+  },
+  "symbol": "^IXIC",
+  "date": "2026-10-01",
+  "change": 10.539999999997235,
+  "change_percent": 0.03923895780731376,
+  "price": 26871.6,
+  "volume": {
+    "$numberLong": "7329610000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14902ee6b3d0bb1f2b013"
+  },
+  "date": "2026-10-02",
+  "symbol": "^IXIC",
+  "change": 319.26000000000204,
+  "change_percent": 1.188094493815039,
+  "price": 27190.86,
+  "volume": {
+    "$numberLong": "7954430000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14902ee6b3d0bb1f2b014"
+  },
+  "date": "2026-10-05",
+  "symbol": "^IXIC",
+  "change": 286.4500000000007,
+  "change_percent": 1.0534789999286551,
+  "price": 27477.31,
+  "volume": {
+    "$numberLong": "7828480000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14902ee6b3d0bb1f2b015"
+  },
+  "date": "2026-10-06",
+  "symbol": "^IXIC",
+  "change": 122.47999999999956,
+  "change_percent": 0.44574960212626186,
+  "price": 27599.79,
+  "volume": {
+    "$numberLong": "8451470000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14902ee6b3d0bb1f2b016"
+  },
+  "date": "2026-10-07",
+  "symbol": "^IXIC",
+  "change": -61.10000000000218,
+  "change_percent": -0.22137849599581078,
+  "price": 27538.69,
+  "volume": {
+    "$numberLong": "7315500000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14902ee6b3d0bb1f2b017"
+  },
+  "date": "2026-10-08",
+  "symbol": "^IXIC",
+  "change": -345.34999999999854,
+  "change_percent": -1.2540538420672827,
+  "price": 27193.34,
+  "volume": {
+    "$numberLong": "8820120000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14902ee6b3d0bb1f2b018"
+  },
+  "date": "2026-10-09",
+  "symbol": "^IXIC",
+  "change": 172.8299999999981,
+  "change_percent": 0.6355600305074629,
+  "price": 27366.17,
+  "volume": {
+    "$numberLong": "6845310000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14902ee6b3d0bb1f2b019"
+  },
+  "date": "2026-10-12",
+  "symbol": "^IXIC",
+  "change": -120.2699999999968,
+  "change_percent": -0.4394842245005305,
+  "price": 27245.9,
+  "volume": {
+    "$numberLong": "6285170000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14902ee6b3d0bb1f2b01a"
+  },
+  "date": "2026-10-13",
+  "symbol": "^IXIC",
+  "change": -41.52000000000044,
+  "change_percent": -0.15238990086581994,
+  "price": 27204.38,
+  "volume": {
+    "$numberLong": "6986280000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14902ee6b3d0bb1f2b01b"
+  },
+  "date": "2026-10-14",
+  "symbol": "^IXIC",
+  "change": -511.51000000000204,
+  "change_percent": -1.8802486952468758,
+  "price": 26692.87,
+  "volume": {
+    "$numberLong": "8568280000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14902ee6b3d0bb1f2b01c"
+  },
+  "date": "2026-10-15",
+  "symbol": "^IXIC",
+  "change": 20.159999999999854,
+  "change_percent": 0.07552578647406538,
+  "price": 26713.03,
+  "volume": {
+    "$numberLong": "10869960000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14902ee6b3d0bb1f2b01d"
+  },
+  "date": "2026-10-16",
+  "symbol": "^IXIC",
+  "change": -573,
+  "change_percent": -2.1450206135357917,
+  "price": 26140.03,
+  "volume": {
+    "$numberLong": "9505000000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14902ee6b3d0bb1f2b01e"
+  },
+  "symbol": "^IXIC",
+  "date": "2026-10-19",
+  "change": 290.8600000000006,
+  "change_percent": 1.112699564614121,
+  "price": 26430.89,
+  "volume": {
+    "$numberLong": "7537660000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14902ee6b3d0bb1f2b01f"
+  },
+  "date": "2026-10-20",
+  "symbol": "^IXIC",
+  "change": -6.069999999999709,
+  "change_percent": -0.02296555280582572,
+  "price": 26424.82,
+  "volume": {
+    "$numberLong": "7660360000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14902ee6b3d0bb1f2b020"
+  },
+  "date": "2026-10-21",
+  "symbol": "^IXIC",
+  "change": 278.0400000000009,
+  "change_percent": 1.0521925977168467,
+  "price": 26702.86,
+  "volume": {
+    "$numberLong": "7818990000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14902ee6b3d0bb1f2b021"
+  },
+  "symbol": "^IXIC",
+  "date": "2026-10-22",
+  "change": -694,
+  "change_percent": -2.598972544513958,
+  "price": 26008.86,
+  "volume": {
+    "$numberLong": "9012120000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14902ee6b3d0bb1f2b022"
+  },
+  "date": "2026-10-23",
+  "symbol": "^IXIC",
+  "change": -53.52000000000044,
+  "change_percent": -0.2057760317061203,
+  "price": 25955.34,
+  "volume": {
+    "$numberLong": "6554790000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14902ee6b3d0bb1f2b023"
+  },
+  "symbol": "^IXIC",
+  "date": "2026-10-26",
+  "change": 214.04000000000087,
+  "change_percent": 0.8246472594849494,
+  "price": 26169.38,
+  "volume": {
+    "$numberLong": "7402660000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14902ee6b3d0bb1f2b024"
+  },
+  "date": "2026-10-27",
+  "symbol": "^IXIC",
+  "change": 308.4300000000003,
+  "change_percent": 1.1785911626488679,
+  "price": 26477.81,
+  "volume": {
+    "$numberLong": "7914230000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14904ee6b3d0bb1f2b02f"
+  },
+  "date": "2026-10-01",
+  "symbol": "^DJI",
+  "change": 20.50999999999476,
+  "change_percent": 0.040289906602446586,
+  "price": 50926.56,
+  "volume": 476448534
+},
+{
+  "_id": {
+    "$oid": "6ae14904ee6b3d0bb1f2b030"
+  },
+  "date": "2026-10-02",
+  "symbol": "^DJI",
+  "change": 250.40000000000146,
+  "change_percent": 0.49168842348668645,
+  "price": 51176.96,
+  "volume": 548953568
+},
+{
+  "_id": {
+    "$oid": "6ae14904ee6b3d0bb1f2b031"
+  },
+  "date": "2026-10-05",
+  "symbol": "^DJI",
+  "change": 90.94000000000233,
+  "change_percent": 0.17769715121805268,
+  "price": 51267.9,
+  "volume": 472444498
+},
+{
+  "_id": {
+    "$oid": "6ae14904ee6b3d0bb1f2b032"
+  },
+  "date": "2026-10-06",
+  "symbol": "^DJI",
+  "change": 253.37999999999738,
+  "change_percent": 0.49422738204607053,
+  "price": 51521.28,
+  "volume": 404919021
+},
+{
+  "_id": {
+    "$oid": "6ae14905ee6b3d0bb1f2b033"
+  },
+  "date": "2026-10-07",
+  "symbol": "^DJI",
+  "change": -341.4099999999962,
+  "change_percent": -0.6626582258825795,
+  "price": 51179.87,
+  "volume": 364125864
+},
+{
+  "_id": {
+    "$oid": "6ae14905ee6b3d0bb1f2b034"
+  },
+  "symbol": "^DJI",
+  "date": "2026-10-08",
+  "change": 51.7699999999968,
+  "change_percent": 0.101153050994457,
+  "price": 51231.64,
+  "volume": 449593741
+},
+{
+  "_id": {
+    "$oid": "6ae14905ee6b3d0bb1f2b035"
+  },
+  "symbol": "^DJI",
+  "date": "2026-10-09",
+  "change": 423.3099999999977,
+  "change_percent": 0.8262667367275333,
+  "price": 51654.95,
+  "volume": 339477384
+},
+{
+  "_id": {
+    "$oid": "6ae14905ee6b3d0bb1f2b036"
+  },
+  "symbol": "^DJI",
+  "date": "2026-10-12",
+  "change": 195.60000000000582,
+  "change_percent": 0.37866651695530795,
+  "price": 51850.55,
+  "volume": 307464899
+},
+{
+  "_id": {
+    "$oid": "6ae14905ee6b3d0bb1f2b037"
+  },
+  "date": "2026-10-13",
+  "symbol": "^DJI",
+  "change": -180.45000000000437,
+  "change_percent": -0.3480194520598226,
+  "price": 51670.1,
+  "volume": 395694761
+},
+{
+  "_id": {
+    "$oid": "6ae14905ee6b3d0bb1f2b038"
+  },
+  "date": "2026-10-14",
+  "symbol": "^DJI",
+  "change": -48.61999999999534,
+  "change_percent": -0.09409697291082336,
+  "price": 51621.48,
+  "volume": 442523838
+},
+{
+  "_id": {
+    "$oid": "6ae14905ee6b3d0bb1f2b039"
+  },
+  "date": "2026-10-15",
+  "symbol": "^DJI",
+  "change": 556.2099999999991,
+  "change_percent": 1.0774778251224086,
+  "price": 52177.69,
+  "volume": 500690219
+},
+{
+  "_id": {
+    "$oid": "6ae14905ee6b3d0bb1f2b03a"
+  },
+  "date": "2026-10-16",
+  "symbol": "^DJI",
+  "change": -175.27999999999884,
+  "change_percent": -0.33592901487206284,
+  "price": 52002.41,
+  "volume": 488091543
+},
+{
+  "_id": {
+    "$oid": "6ae14905ee6b3d0bb1f2b03b"
+  },
+  "date": "2026-10-19",
+  "symbol": "^DJI",
+  "change": -36.38000000000466,
+  "change_percent": -0.0699582961635906,
+  "price": 51966.03,
+  "volume": 394068742
+},
+{
+  "_id": {
+    "$oid": "6ae14905ee6b3d0bb1f2b03c"
+  },
+  "date": "2026-10-20",
+  "symbol": "^DJI",
+  "change": 529.8499999999985,
+  "change_percent": 1.0196083864786256,
+  "price": 52495.88,
+  "volume": 368648006
+},
+{
+  "_id": {
+    "$oid": "6ae14905ee6b3d0bb1f2b03d"
+  },
+  "symbol": "^DJI",
+  "date": "2026-10-21",
+  "change": 360.2099999999991,
+  "change_percent": 0.6861681335754332,
+  "price": 52856.09,
+  "volume": 359385262
+},
+{
+  "_id": {
+    "$oid": "6ae14905ee6b3d0bb1f2b03e"
+  },
+  "date": "2026-10-22",
+  "symbol": "^DJI",
+  "change": 11.890000000006694,
+  "change_percent": 0.022495042671538314,
+  "price": 52867.98,
+  "volume": 506198387
+},
+{
+  "_id": {
+    "$oid": "6ae14905ee6b3d0bb1f2b03f"
+  },
+  "date": "2026-10-23",
+  "symbol": "^DJI",
+  "change": -652.8199999999997,
+  "change_percent": -1.234811695094081,
+  "price": 52215.16,
+  "volume": 348502492
+},
+{
+  "_id": {
+    "$oid": "6ae14905ee6b3d0bb1f2b040"
+  },
+  "date": "2026-10-26",
+  "symbol": "^DJI",
+  "change": 146.41999999999825,
+  "change_percent": 0.28041664528079246,
+  "price": 52361.58,
+  "volume": 387915369
+},
+{
+  "_id": {
+    "$oid": "6ae14905ee6b3d0bb1f2b041"
+  },
+  "date": "2026-10-27",
+  "symbol": "^DJI",
+  "change": 15.989999999997963,
+  "change_percent": 0.030537657572590363,
+  "price": 52377.57,
+  "volume": 401210066
+},
+{
+  "_id": {
+    "$oid": "6ae14906ee6b3d0bb1f2b04d"
+  },
+  "symbol": "^RUT",
+  "date": "2026-10-01",
+  "change": 9.769999999999982,
+  "change_percent": 0.3493203092038923,
+  "price": 2806.63,
+  "volume": {
+    "$numberLong": "5783800000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14906ee6b3d0bb1f2b04e"
+  },
+  "symbol": "^RUT",
+  "date": "2026-10-02",
+  "change": 26.259999999999764,
+  "change_percent": 0.9356416770290263,
+  "price": 2832.89,
+  "volume": {
+    "$numberLong": "5277430000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14907ee6b3d0bb1f2b04f"
+  },
+  "symbol": "^RUT",
+  "date": "2026-10-05",
+  "change": 14.25,
+  "change_percent": 0.5030198842877768,
+  "price": 2847.14,
+  "volume": {
+    "$numberLong": "5840900000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14907ee6b3d0bb1f2b050"
+  },
+  "symbol": "^RUT",
+  "date": "2026-10-06",
+  "change": -16.83999999999969,
+  "change_percent": -0.5914707390574292,
+  "price": 2830.3,
+  "volume": {
+    "$numberLong": "5019650000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14907ee6b3d0bb1f2b051"
+  },
+  "date": "2026-10-07",
+  "symbol": "^RUT",
+  "change": -37.100000000000364,
+  "change_percent": -1.3108151079391004,
+  "price": 2793.2,
+  "volume": {
+    "$numberLong": "5111150000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14907ee6b3d0bb1f2b052"
+  },
+  "date": "2026-10-08",
+  "symbol": "^RUT",
+  "change": 0.930000000000291,
+  "change_percent": 0.03329514535301057,
+  "price": 2794.13,
+  "volume": {
+    "$numberLong": "6082070000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14907ee6b3d0bb1f2b053"
+  },
+  "symbol": "^RUT",
+  "date": "2026-10-09",
+  "change": 12.849999999999909,
+  "change_percent": 0.4598927036322543,
+  "price": 2806.98,
+  "volume": {
+    "$numberLong": "4782640000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14907ee6b3d0bb1f2b054"
+  },
+  "date": "2026-10-12",
+  "symbol": "^RUT",
+  "change": -12.5,
+  "change_percent": -0.4453184561343508,
+  "price": 2794.48,
+  "volume": {
+    "$numberLong": "4148500000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14907ee6b3d0bb1f2b055"
+  },
+  "date": "2026-10-13",
+  "symbol": "^RUT",
+  "change": -11.110000000000127,
+  "change_percent": -0.3975694941456059,
+  "price": 2783.37,
+  "volume": {
+    "$numberLong": "4869340000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14907ee6b3d0bb1f2b056"
+  },
+  "date": "2026-10-14",
+  "symbol": "^RUT",
+  "change": -53.83999999999969,
+  "change_percent": -1.9343457750855866,
+  "price": 2729.53,
+  "volume": {
+    "$numberLong": "5955580000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14907ee6b3d0bb1f2b057"
+  },
+  "date": "2026-10-15",
+  "symbol": "^RUT",
+  "change": 37.73999999999978,
+  "change_percent": 1.3826556220301582,
+  "price": 2767.27,
+  "volume": {
+    "$numberLong": "6055670000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14907ee6b3d0bb1f2b058"
+  },
+  "date": "2026-10-16",
+  "symbol": "^RUT",
+  "change": -45.90000000000009,
+  "change_percent": -1.6586744336476056,
+  "price": 2721.37,
+  "volume": {
+    "$numberLong": "5482060000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14907ee6b3d0bb1f2b059"
+  },
+  "date": "2026-10-19",
+  "symbol": "^RUT",
+  "change": 6.930000000000291,
+  "change_percent": 0.25465114997226734,
+  "price": 2728.3,
+  "volume": {
+    "$numberLong": "4587260000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14907ee6b3d0bb1f2b05a"
+  },
+  "date": "2026-10-20",
+  "symbol": "^RUT",
+  "change": 48.23000000000002,
+  "change_percent": 1.7677674742513658,
+  "price": 2776.53,
+  "volume": {
+    "$numberLong": "5004770000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14907ee6b3d0bb1f2b05c"
+  },
+  "date": "2026-10-21",
+  "symbol": "^RUT",
+  "change": 4.489999999999782,
+  "change_percent": 0.16171264131847238,
+  "price": 2781.02,
+  "volume": {
+    "$numberLong": "4921480000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14907ee6b3d0bb1f2b05d"
+  },
+  "symbol": "^RUT",
+  "date": "2026-10-22",
+  "change": 3.0100000000002183,
+  "change_percent": 0.10823366966077981,
+  "price": 2784.03,
+  "volume": {
+    "$numberLong": "5972620000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14907ee6b3d0bb1f2b05e"
+  },
+  "date": "2026-10-23",
+  "symbol": "^RUT",
+  "change": -8.13000000000011,
+  "change_percent": -0.29202271527246865,
+  "price": 2775.9,
+  "volume": {
+    "$numberLong": "5062330000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14907ee6b3d0bb1f2b05f"
+  },
+  "date": "2026-10-26",
+  "symbol": "^RUT",
+  "change": 10.519999999999982,
+  "change_percent": 0.3789761879030218,
+  "price": 2786.42,
+  "volume": {
+    "$numberLong": "5838070000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae14907ee6b3d0bb1f2b060"
+  },
+  "date": "2026-10-27",
+  "symbol": "^RUT",
+  "change": 32.44999999999982,
+  "change_percent": 1.1645767687570365,
+  "price": 2818.87,
+  "volume": {
+    "$numberLong": "5160120000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae2d0e5ee6b3d0bb13475b2"
+  },
+  "date": "2026-10-28",
+  "symbol": "^GSPC",
+  "change": 21.3799999999992,
+  "change_percent": 0.27684976562296637,
+  "price": 7743.98,
+  "volume": {
+    "$numberLong": "5466960000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae2d0e6ee6b3d0bb13475b4"
+  },
+  "date": "2026-10-28",
+  "symbol": "^IXIC",
+  "change": 72.03999999999724,
+  "change_percent": 0.27207688249140405,
+  "price": 26549.85,
+  "volume": {
+    "$numberLong": "7985070000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae2d0e6ee6b3d0bb13475b5"
+  },
+  "date": "2026-10-28",
+  "symbol": "^DJI",
+  "change": 97.52999999999884,
+  "change_percent": 0.186205660170945,
+  "price": 52475.1,
+  "volume": 405081041
+},
+{
+  "_id": {
+    "$oid": "6ae2d0e6ee6b3d0bb13475b6"
+  },
+  "date": "2026-10-28",
+  "symbol": "^RUT",
+  "change": 11.640000000000327,
+  "change_percent": 0.4129314228751353,
+  "price": 2830.51,
+  "volume": {
+    "$numberLong": "5466960000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae40a36fd4bfc15e9b7d720"
+  },
+  "date": "2026-10-29",
+  "symbol": "^GSPC",
+  "change": -23.589999999999236,
+  "change_percent": -0.3046237206191033,
+  "price": 7720.39,
+  "volume": {
+    "$numberLong": "5827600000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae40a36fd4bfc15e9b7d721"
+  },
+  "date": "2026-10-29",
+  "symbol": "^IXIC",
+  "change": -365.1299999999974,
+  "change_percent": -1.3752620071299742,
+  "price": 26184.72,
+  "volume": {
+    "$numberLong": "7405880000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae40a36fd4bfc15e9b7d722"
+  },
+  "date": "2026-10-29",
+  "symbol": "^DJI",
+  "change": -132.54000000000087,
+  "change_percent": -0.2525769364898797,
+  "price": 52342.56,
+  "volume": 549807356
+},
+{
+  "_id": {
+    "$oid": "6ae40a37fd4bfc15e9b7d723"
+  },
+  "date": "2026-10-29",
+  "symbol": "^RUT",
+  "change": 28.70999999999958,
+  "change_percent": 1.0143048425901897,
+  "price": 2859.22,
+  "volume": {
+    "$numberLong": "5827600000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae95b4a3c5f803aa7fa6ed4"
+  },
+  "symbol": "^GSPC",
+  "date": "2026-10-30",
+  "change": -140.32000000000062,
+  "change_percent": -1.8175247623500965,
+  "price": 7580.07,
+  "volume": {
+    "$numberLong": "6149170000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae95b4a3c5f803aa7fa6ed5"
+  },
+  "symbol": "^IXIC",
+  "date": "2026-10-30",
+  "change": -747.7200000000012,
+  "change_percent": -2.855558508931931,
+  "price": 25437,
+  "volume": {
+    "$numberLong": "9068930000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae95b4b3c5f803aa7fa6ed6"
+  },
+  "symbol": "^DJI",
+  "date": "2026-10-30",
+  "change": -572.25,
+  "change_percent": -1.0932785862976515,
+  "price": 51770.31,
+  "volume": 659029846
+},
+{
+  "_id": {
+    "$oid": "6ae95b4b3c5f803aa7fa6ed7"
+  },
+  "date": "2026-10-30",
+  "symbol": "^RUT",
+  "change": -47.379999999999654,
+  "change_percent": -1.6570952917229054,
+  "price": 2811.84,
+  "volume": {
+    "$numberLong": "6149170000"
+  }
+}]

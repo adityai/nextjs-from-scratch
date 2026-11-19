@@ -1,13 +1,22 @@
 # nextjs-from-scratch
 Create a nextjs app from scratch, get data from a mongodb database and display the data on a page.
 ## Pre-requisites
- - node
+ - node ^v22.14.0
  - npm
  - docker or mongodb running locally or in the cloud
  
 ## Initial setup
 ### Create the nextjs app scaffolding
-```npx create-next-app@15.1.1 nextjs-from-scratch --typescript --eslint --app --no-src-dir --use-npm --no-tailwind --import-alias "@/*"```
+```shell
+npx create-next-app@15.1.1 nextjs-from-scratch \
+    --typescript \
+    --eslint \
+    --app \
+    --no-src-dir \
+    --use-npm \
+    --no-tailwind \
+    --import-alias "@/*"
+```
 
 ### Install mongo npm
 ```
@@ -22,7 +31,7 @@ npm ci
 ```docker run -d -p 27017:27017 -v ~/mongodb:/data/db --name mongo mongo```
 
 ### Load data
-Import the eod_market_index.json to a mongo database named market in a collection named eod_market_index.
+Import the eod_market_index.json to a mongo database named 'market' in a collection named 'eod_market_index'.
 
 ### Create .env.local
 ```
@@ -60,7 +69,9 @@ if (process.env.NODE_ENV === 'development') {
 export default client;
 ```
 
-### Create new page
+## Create new page
+Create a new page in pages/eodMarketIndex.tsx
+
 Start with:
 ```typescript
 import type { GetServerSideProps } from "next";
@@ -144,7 +155,7 @@ export const getServerSideProps: GetServerSideProps<Props> = async () => {
 2. It returns { props: { eodMarketIndexData: ... } }.
 3. Next.js passes the props contents to the default-exported EodMarketIndexPage component. The component destructures eodMarketIndexData from that object.
 4. React renders the component. 
-5. Then, in the browser, useEffect runs and logs the data to the browser’s developer console.
+5. Then, in the browser, useEffect runs and logs the data to the browser’s developer console. useEffect can be used for other effects like color changes, a timer etc.
 
 ### Run in dev mode
 ```npm run dev```
